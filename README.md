@@ -39,3 +39,5 @@ Post-Install Configuration Objectives
   Service Level Agreement (SLA).  We will make selectable SLAs for our tickets.  Go to "Admin Panel" then "manage", "SLA", "Add new SLA plan". The setup is pretty self-explanatory here.  Your users will be able to set urgency to their tickets.
   
   CONFIGURING HELP TOPICS (you'll be glad you did)
+
+Now that we've done all that, let's move on to the next section and try this new system out.
