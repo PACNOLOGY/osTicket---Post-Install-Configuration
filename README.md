@@ -13,23 +13,21 @@ Internet Information Services (IIS)
 Operating Systems Used
 Windows 10 (21H2)
 Post-Install Configuration Objectives
-Item 1
-Item 2
-Item 3
-Item 4
-Item 5
-Configuration Steps
-Disk Sanitization Steps
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Now that we have successfully installed osTicket, now we have to make accounts for our staff.  We will have agents, as well as their teams.  We will also be setting the application up for customers in this tutorial. [IMAGE]
 
-
-Disk Sanitization Steps
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-
-Disk Sanitization Steps
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+  Start by clicking where it says "Administrator Panel".  We will be doing our configuring from here. [IMAGE]
+  
+  MAKE SYSADMIN DEPARTMENT
+  
+  MAKE TEAMS
+  
+  ALLOW ANYONE TO CREATE TICKETS
+  
+  HIRING ON AGENTS
+  
+  CONFIGURING CUSTOMER ACCOUNTS
+  
+  CONFIGURING SLA (urgencies for tickets)
+  
+  CONFIGURING HELP TOPICS (you'll be glad you did)
