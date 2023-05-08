@@ -17,7 +17,7 @@ Post-Install Configuration Objectives
   Now that we have successfully installed osTicket, now we have to make accounts for our staff.  FYI, and I recommend this as well, I enabled the "home" button in "edge browser" and set the osTicket login page to home. 
   <img src=https://i.imgur.com/mh9vzbs.png>
   
-    We will have agents, as well as their teams.  We will also be setting the application up for customers in this tutorial.[IMAGE]
+   We will have agents, as well as their teams.  We will also be setting the application up for customers in this tutorial.[IMAGE]
 
   Start by clicking where it says "Admin Panel".  We will be doing our configuring from here. [IMAGE]
   
