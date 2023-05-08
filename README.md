@@ -39,13 +39,21 @@ Post-Install Configuration Objectives
   
   now we return to the dashboard, then we click agents, then we're going to "add new agent".  This is where we have the new hires give us their contact information.  We can set passwords for them here as well.  for the sake of demonstration, everyone is Password1
   
-  You can see here "Don Joe" is being given responsibility for 2 departments
+  You can see here "Don Joe" is being given responsibility for 2 departments.  As Supreme Admin, I was able to assign these issues to different departments, both of which he is head of, and the application auto notifies him as it's his responsibility now.
+  <img src=https://i.imgur.com/JwFvWB1.png>
+  
+  <img src=https://i.imgur.com/ZOdaoIn.png>
   
   We go back to the "Agent Panel" and now, as support agents, we have a tab, "users".  Go there.  Make some new users.  They'll all be registered as guests, and they can reach your support team through osTicket now so long as they register with your system.  If not, you can create tickets on their behalf.  Potentially best use as a receptionist or some type of front counter role.
   
+  <img src=https://i.imgur.com/OXVbZbf.png>
+  
   CONFIGURING SLA (urgencies for tickets)
   Service Level Agreement (SLA).  We will make selectable SLAs for our tickets.  Go to "Admin Panel" then "manage", "SLA", "Add new SLA plan". The setup is pretty self-explanatory here.  Your users will be able to set urgency to their tickets.
+  <img src=https://i.imgur.com/M8gQqUB.png>
   
   CONFIGURING HELP TOPICS (you'll be glad you did)
+  There's really nothing to explain here.  You make help topics you can refer other users to for common issues, and managers or whoever has clearance to update can do so.  This is where daily reports become an important part of the job.
+  <img src=https://i.imgur.com/23yp728.png>
 
 Now that we've done all that, let's move on to the next section and try this new system out.
