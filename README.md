@@ -57,3 +57,4 @@ Post-Install Configuration Objectives
   <img src=https://i.imgur.com/23yp728.png>
 
 Now that we've done all that, let's move on to the next section and try this new system out.
+[osTicket: Ticket Lifecycle Examples(WIP)](https://github.com/PACNOLOGY/osTicket-Ticket-Lifecycle-Examples)
