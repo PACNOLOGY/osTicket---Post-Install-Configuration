@@ -2,15 +2,14 @@
 osTicket - Post-Install Configuration
 osTicket logo
 
-osTicket - Post-Install Configuration
+### osTicket
+## Post-Install Configuration
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.
-Video Demonstration
-YouTube: How To Configure osTicket, post-installation
-Environments and Technologies Used
+# Environments and Technologies Used
 Microsoft Azure (Virtual Machines/Compute)
 Remote Desktop
 Internet Information Services (IIS)
-Operating Systems Used
+# Operating Systems Used
 Windows 10 (21H2)
 Post-Install Configuration Objectives
 
@@ -48,11 +47,13 @@ Post-Install Configuration Objectives
   
   <img src=https://i.imgur.com/OXVbZbf.png>
   
-  CONFIGURING SLA (urgencies for tickets)
+  ## CONFIGURING SLA 
+  # (urgencies for tickets)
   Service Level Agreement (SLA).  We will make selectable SLAs for our tickets.  Go to "Admin Panel" then "manage", "SLA", "Add new SLA plan". The setup is pretty self-explanatory here.  Your users will be able to set urgency to their tickets.
   <img src=https://i.imgur.com/M8gQqUB.png>
   
-  CONFIGURING HELP TOPICS (you'll be glad you did)
+  ## CONFIGURING HELP TOPICS
+  # (you'll be glad you did)
   There's really nothing to explain here.  You make help topics you can refer other users to for common issues, and managers or whoever has clearance to update can do so.  This is where daily reports become an important part of the job.
   <img src=https://i.imgur.com/23yp728.png>
 
